@@ -17,7 +17,7 @@ We call the proposed method for generative modeling an adaptive tensor tree (ATT
 
 ## Codes
 * apply_att.py : Python code to apply the ATT method for generative modeling to a general dataset.
-* born_machine.py : Python class for the ATT method, imported by test_general.py
+* born_machine.py : Python class for the ATT method, imported by apply_att.py
 
 These codes need some Python libraries such as numpy, [torch](https://pytorch.org), and [opt_einsum](https://github.com/dgasmith/opt_einsum).
 
