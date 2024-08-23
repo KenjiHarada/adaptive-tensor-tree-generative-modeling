@@ -42,5 +42,5 @@ Our dataset about the stock price fluctuation pattern in S&P500 is based on [Kag
 tensor tree, generative modeling, network structure optimization, mutual information
 
 #### License
-Copyright 2024 Kenji Harada
+Copyright 2024 Kenji Harada  
 [Licensed under the Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
