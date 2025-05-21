@@ -163,7 +163,7 @@ with open(description_file, "r") as f:
         if re.match("#", line):
             continue
         else:
-            m = re.match("\s*(\S*)\s*=\s*(\S*)", line)
+            m = re.match(r"\s*(\S*)\s*=\s*(\S*)", line)
             if m:
                 data_description[m.group(1)] = m.group(2)
 
